@@ -1,6 +1,6 @@
 # Event Ticket Booking System
 
-##20250305
+## 20250305
 
 ### Description:
 This is a coding project I made for my 1st year in Computer Science. If you wish to copy
