@@ -1,6 +1,7 @@
 # Event Ticket Booking System
-
 ## 2025 03 05
+
+![GUI Screenshot](java-gui-screenshot.png)
 
 ### Description:
 This is a coding project I made for my 1st year in Computer Science. If you wish to copy
