@@ -1,8 +1,6 @@
 # Event Ticket Booking System
 ## 2025 03 05
 
-![GUI Screenshot](java-gui-screenshot.png)
-
 ### Description:
 This is a coding project I made for my 1st year in Computer Science. If you wish to copy
 the code, then by all means. 
@@ -21,3 +19,5 @@ the code, then by all means.
 
 * Add Icons for the JCheckBoxes
 * Change the Array Structure where column indices have all the details for one event
+
+![GUI Screenshot](java-gui-screenshot.png)
