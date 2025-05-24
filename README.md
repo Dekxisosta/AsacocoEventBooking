@@ -20,4 +20,7 @@ the code, then by all means.
 * Add Icons for the JCheckBoxes
 * Change the Array Structure where column indices have all the details for one event
 
+<br>
+
+### Javaswing GUI Screenshot
 <img src="java-gui-screenshot.png" alt="GUI Screenshot" width="75%"/>
