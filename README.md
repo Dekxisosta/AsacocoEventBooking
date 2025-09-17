@@ -11,28 +11,21 @@
   </tr>
 </table>
 
-## 2025 03 05
+## Javaswing GUI Screenshot
+<img src="java-gui-screenshot.png" alt="GUI Screenshot" width="75%"/>
 
-### Description:
+## Description:
 This is a coding project I made for my 1st year in Computer Science. If you wish to copy
 the code, then by all means. 
 
-### Code Functionality:
+## Code Functionality:
 
 * Users can select an event (Concert, Movie, Sports)
 * Choose the number of tickets
-* Get a bookingsummary
+* Get a booking summary
 * Uses JCheckBox for event selection
 * JTextArea for transaction logs
 * JOptionPane to confirm bookings
 * The user should enter the number of tickets using JTextField.
 
-### What You Could Do To Make It Better:
 
-* Add Icons for the JCheckBoxes
-* Change the Array Structure where column indices have all the details for one event
-
-<br>
-
-### Javaswing GUI Screenshot
-<img src="java-gui-screenshot.png" alt="GUI Screenshot" width="75%"/>
