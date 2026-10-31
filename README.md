@@ -12,7 +12,7 @@
 </table>
 
 ## Javaswing GUI Screenshot
-<img src="java-gui-screenshot.png" alt="GUI Screenshot" width="75%"/>
+<img src="docs/java-gui-screenshot.png" alt="GUI Screenshot" width="75%"/>
 
 ## Description:
 This is a coding project I made for my 1st year in Computer Science. If you wish to copy
